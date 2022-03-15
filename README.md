@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+ms&color=%23B851F7&size=30&center=true&vCenter=true&lines=Hello+There!;I+am+Ritika.)](https://git.io/typing-svg)
 <br></br>
 <h3 align="left" style="font-weight:bold">Get to know me :</h3>
-
+<img align="right" width="350" height="346" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 
 ● A B.Tech (IT) Sophomore .👀
 
@@ -9,9 +9,12 @@
 
 ● An open-source enthusiast.💜
 
+● An competitive coder who loves to solve problems. 😊
+
 ● Loves to learn and explore new technologies.🌱
 
 ● Loves to read books. 📖
+
 <br></br>
 <h3 align="left" style="font-weight:bold">Connect with me :</h3>
 
