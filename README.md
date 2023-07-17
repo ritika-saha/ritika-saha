@@ -3,9 +3,9 @@
 <h3 align="left" style="font-weight:bold">Get to know me :</h3>
 <img align="right" width="350" height="346" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 
-● A B.Tech (IT) Junior .👀
+● A B.Tech (IT) Senior .👀
 
-● A Front-end Developer.👩🏽‍💻
+● A MERN stack Developer.👩🏽‍💻
 
 ● An open-source enthusiast.💜
 
