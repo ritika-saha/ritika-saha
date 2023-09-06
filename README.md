@@ -9,8 +9,6 @@
 
 ● An open-source enthusiast.💜
 
-● An competitive coder who loves to solve problems. 😊
-
 ● Loves to learn and explore new technologies.🌱
 
 ● Loves to read books. 📖
@@ -38,6 +36,7 @@
 <a href="https://www.w3schools.com/Css/"><img align="left" alt="CSS" width="45px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png"/></a>
 <a href="https://www.w3schools.com/js/DEFAULT.asp"><img align="left" alt="JS" width="75px" src="https://th.bing.com/th/id/R.94ae2dcd4fa410811cab4e1fbb403340?rik=bpjuZM%2fu0R4w%2bA&riu=http%3a%2f%2fwww.acadecap.org%2fwp-content%2fuploads%2f2016%2f07%2fJavascript.png&ehk=G22t9IbHUOZ6vSyyhS6n9TiE7L%2fzQ%2b%2fWxL5ilvRfw84%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"/></a>
 <a href="https://reactjs.org/"><img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/></a>
+<a href="https://nodejs.dev/en/learn/"><img align="left" alt="NodeJs" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/></a>
 <a href="https://nextjs.org/"><img align="left" alt="NextJs" width="40px" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"/></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="ReactJs" width="40px" src="https://img.icons8.com/color/512/mongodb.png"/></a>
 <a href="https://isocpp.org/"><img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/><a>
